@@ -47,3 +47,9 @@ b) Convierte un objeto Variant a una cadena JSON
 c) Parsea un objeto JSON a un objeto Variant
 
 d) Serializa un objeto Variant en una cadena binaria
+
+
+### 2.Problemas de codificación
+Encontrarás la solución en la carpeta llamada codigo.
+### 3.Fuente
+https://www.programarya.com/Cursos/C++/Entrada-y-Salida-de-Datos
