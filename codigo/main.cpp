@@ -31,7 +31,18 @@ public:
             throw std::runtime_error("No he encontrado el simbolo: " + name);
         }
     }
+    bool exists(const std::string& name) const {
+        return symbolTable.find(name) != symbolTable.end();
+    }
 
+    void remove(const std::string& name) {
+        auto it = symbolTable.find(name);
+        if (it != symbolTable.end()) {
+            symbolTable.erase(it);
+        } else {
+            throw std::runtime_error("No he encontrado el simbolo: " + name);
+        }
+    }
 };
 
 
