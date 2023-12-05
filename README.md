@@ -5,8 +5,7 @@ En este link encontrarás mi repositorio--> https://github.com/csantillgar/Exame
 ### Índice
 1. Preguntas de opción múltiple 
 2. Problemas de codificación
-3. Preguntas de desarrollo
-4. Fuentes
+3. Fuentes
 
 ### 1.Preguntas de opción múltiple
 1. ¿Cuál es el propósito principal de la clase Variant en el lenguaje Tiny Lisp?
