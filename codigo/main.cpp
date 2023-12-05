@@ -15,8 +15,7 @@ public:
     }
 
 };
-Environment env;
-env.insert("x", 10);
+
 
 int main(){
 
