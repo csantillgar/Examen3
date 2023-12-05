@@ -18,6 +18,10 @@ public:
         auto it = symbolTable.find(name);
         if (it != symbolTable.end()) {
             return it->second;
+        } else {
+
+            throw std::runtime_error("No he encontrado el simbolo: " + name);
+
         }
 
     }
