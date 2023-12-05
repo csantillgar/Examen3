@@ -14,13 +14,20 @@ public:
     void insert(const std::string& name, const Variant& value){
         symbolTable[name] = value;
     }
+    Variant lookup(const std::string& name) const {
+        auto it = symbolTable.find(name);
+        if (it != symbolTable.end()) {
+            return it->second;
+        }
+
+    }
 
 };
 
 
 int main(){
     Environment env;
-    env.insert("x",(Variant) 10);
+    //env.insert("x",(Variant) 10);
 
     return 0;
 }
