@@ -12,7 +12,7 @@ En este link encontrarás mi repositorio--> https://github.com/csantillgar/Exame
 
 a) Gestionar la entrada y salida del usuario
 
-b) Representar cualquier tipo de dato Lisp
+***b) Representar cualquier tipo de dato Lisp*** **(CORRECTA)**
 
 c) Generar números aleatorios
 
@@ -20,7 +20,7 @@ d) Gestionar las operaciones de red
 
 2. ¿Qué representación se obtiene al utilizar el método to_string() en un objeto Variant?
 
-a) Una cadena de texto que representa una instancia de Variant
+***a) Una cadena de texto que representa una instancia de Variant*** **(CORRECTA)**
 
 b) Una representación binaria del objeto
 
@@ -32,7 +32,7 @@ d) Un objeto JSON
 
 a) Convierte una cadena JSON en un objeto Variant
 
-b) Convierte un objeto Variant a una cadena JSON
+***b) Convierte un objeto Variant a una cadena JSON*** **(CORRECTA)**
 
 c) Parsea un objeto JSON a un objeto Variant
 
@@ -40,7 +40,7 @@ d) Serializa un objeto Variant en una cadena binaria
 
 4. ¿Qué función cumple el método from_json_string() en la clase Variant?
 
-a) Convierte una cadena JSON en un objeto Variant
+***a) Convierte una cadena JSON en un objeto Variant*** **(CORRECTA)**
 
 b) Convierte un objeto Variant a una cadena JSON
 
