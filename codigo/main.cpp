@@ -6,7 +6,8 @@ class Variant{
 
 };
 class Environment{
-
+private:
+    std::map<std::string,Variant> symbolTable;
 
 };
 
